@@ -1,7 +1,7 @@
 # Morse Code Translator
-1. [Introduction:](#introduction)
-2. [Requirements:](#requirements)
-3. [What I used:](#what-i-used)
+1. [Introduction](#introduction)
+2. [Requirements](#requirements)
+3. [What I used](#what-i-used)
 
 ## Introduction:
 A script that translates text to morse code and plays it as a sound. It's my first experience with playing sounds in Python, and I used the *playsound* library to do so.
